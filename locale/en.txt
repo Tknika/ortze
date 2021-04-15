@@ -1,0 +1,125 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Título
+tour.name = ORTZE
+
+## Skin
+
+### Botón
+Button_462EDB57_4A0A_903E_41D1_5676E91C4283.label = CASTELLANO
+Button_462EDB57_4A0A_903E_41D1_5676E91C4283.pressedLabel = CASTELLANO
+Button_47C03027_4A19_B01E_41D1_53842FFBC421.label = EUSKARA
+Button_47C03027_4A19_B01E_41D1_53842FFBC421.pressedLabel = EUSKARA
+Button_47DD37D9_4A1A_9032_41B8_AE7F89A74E58.label = ENGLISH
+Button_47DD37D9_4A1A_9032_41B8_AE7F89A74E58.pressedLabel = ENGLISH
+Button_589E0941_4A1A_7012_41B5_7C2F39C0505A.label = ENGLISH
+Button_58B0AC36_4A1F_F07E_41D1_C4337C38545A.label = CASTELLANO
+Button_593C94A4_4A1B_9012_41D0_D6883328DBB5.label = EUSKARA
+
+### Tooltip
+IconButton_17419C86_0326_E262_4167_DF84F28E5D76.toolTip = GYROSCOPE
+IconButton_17419C86_0326_E262_4167_DF84F28E5D76_mobile.toolTip = GYROSCOPE
+IconButton_570E2E34_5EBE_63DE_417E_9FF89E99273C.toolTip = RIGHT
+IconButton_570E2E34_5EBE_63DE_417E_9FF89E99273C_mobile.toolTip = RIGHT
+IconButton_570E2E34_5EBE_63DE_41B6_6A9E5D4DE6FA.toolTip = DOWN
+IconButton_570E2E34_5EBE_63DE_41B6_6A9E5D4DE6FA_mobile.toolTip = DOWN
+IconButton_570E2E34_5EBE_63DE_41B8_BB2B515545D1.toolTip = PLAY • STOP
+IconButton_570E2E34_5EBE_63DE_41B8_BB2B515545D1_mobile.toolTip = PLAY • STOP
+IconButton_570E2E34_5EBE_63DE_41BF_4A1E5F2D40AB.toolTip = REDUCE
+IconButton_570E2E34_5EBE_63DE_41BF_4A1E5F2D40AB_mobile.toolTip = REDUCE
+IconButton_570E2E34_5EBE_63DE_41C7_41F80DEDE689.toolTip = UP
+IconButton_570E2E34_5EBE_63DE_41C7_41F80DEDE689_mobile.toolTip = UP
+IconButton_570E2E34_5EBE_63DE_41CF_DC0B2946505D.toolTip = ENLARGE
+IconButton_570E2E34_5EBE_63DE_41CF_DC0B2946505D_mobile.toolTip = ENLARGE
+IconButton_570E2E34_5EBE_63DE_41D0_8EA6B8C16A08.toolTip = EFT
+IconButton_570E2E34_5EBE_63DE_41D0_8EA6B8C16A08_mobile.toolTip = EFT
+IconButton_CCC024C6_DEC7_8043_41DD_8BF0338AAAAA.toolTip = VR GLASSES
+IconButton_CCC024C6_DEC7_8043_41DD_8BF0338AAAAA_mobile.toolTip = VR GLASSES
+IconButton_F15825E6_E2BB_2B6D_41D0_DEC9C7AEA7F9.toolTip = THUMBNAILS
+IconButton_F15825E6_E2BB_2B6D_41D0_DEC9C7AEA7F9_mobile.toolTip = THUMBNAILS
+IconButton_F67CF907_E2C8_F8AB_41DF_3CD4793E9FF2.toolTip = FULL SCREEN
+IconButton_F67CF907_E2C8_F8AB_41DF_3CD4793E9FF2_mobile.toolTip = FULL SCREEN
+IconButton_FC006037_DF46_9FC1_419F_06BD10C7020A.toolTip = CASTELLANO
+IconButton_FC006037_DF46_9FC1_419F_06BD10C7020A_mobile.toolTip = CASTELLANO
+IconButton_FC1A4D0D_DF47_81C1_41EA_F14DB859DDB9.toolTip = ENGLISH
+IconButton_FC1A4D0D_DF47_81C1_41EA_F14DB859DDB9_mobile.toolTip = ENGLISH
+IconButton_FDCDA655_DF45_8041_41E1_5B7B0CDEC51D.toolTip = EUSKARA
+IconButton_FDCDA655_DF45_8041_41E1_5B7B0CDEC51D_mobile.toolTip = EUSKARA
+IconButton_FE1EC289_F1C8_E5AE_41DC_F65C4DBEF4ED.toolTip = GYROSCOPE
+IconButton_FE1EC289_F1C8_E5AE_41DC_F65C4DBEF4ED_mobile.toolTip = GYROSCOPE
+
+## Media
+
+### Título
+panorama_4491DE75_49C5_9157_41C7_7AE9283EAFFC.label = ENGINE ROOM
+panorama_44C894A9_49C5_91FF_41B7_8C3BB287363D.label = BATTERY LOCKER
+panorama_44CD8954_49C5_7355_41D2_03C26BB8EC07.label = CONVERTERS 
+panorama_44E29A56_49C3_9155_418C_53E8BC790008.label = STERN
+panorama_44E969FC_49C4_9355_41D0_950DCFAC9168.label = BRIDGE
+panorama_452C43E7_49C3_9773_41C3_F8C61C122C97.label = BOW
+panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E.label = UPPER DECK
+
+## Ventana
+
+### Cuerpo
+htmlText_0E5BAA23_01A0_21FF_4172_E7F3A1767364.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Auxiliary diesel generator with a power of 275kVA at 50Hz, and 315kVA at 60Hz. It produces a voltage of 400V AC at 1800rpm. It is a six cylinders combustion engine with direct injection and highly monitored through different sensors installed in the different engine circuits for its predictive and preventive maintenance. It contains a digital speed controller together with an automatic voltage regulator (AVR) enabling the operation at variable speed.</SPAN></SPAN></DIV></div>
+htmlText_0E97EE06_01A0_21B9_4170_C10237BA4406.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Lithium-Ion battery system with 200kwh of energy storage capacity who can provide a power up to 400kW. Its nominal output voltage is 750Vdc, and it has a forced air-cooling system. It permits fast recharges in times of 1.5 hours with powers up to 180kW. It contains a BMS (Battery Management System) for the communication with the bridge control center thus sharing the status variables for participating in the PMS and EMS strategies.</SPAN></SPAN></DIV></div>
+htmlText_0EBCAA41_01A0_21BB_4151_A8E5C941DF3E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">It drives the main propulsion thruster. It is a permanent interior magnets synchronous electrical machine with dual windings and water cooled. It offers a maximum power of 500kW, with a nominal voltage of 690Vac, and a speed operation range from -1000 to 1800 rpm in sensor-less mode with a precise and high dynamic speed and torque control.</SPAN></SPAN></DIV></div>
+htmlText_0F02191E_01A0_23C9_4146_61C866FD8FC8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">It manages the different vessel operation modes and it executes the Power and Energy Management system functions of the hybrid-electrical plant with batteries. It governs through a field communication bus all the frequency converters, the battery system, and the diesel generator, as well as all the automatic switches and motorized breakers for the plant reconfiguration in function of the different vessel operation modes. It incorporates also the alarm control system.</SPAN></SPAN></DIV></div>
+htmlText_10F16450_01A1_E259_4159_441F5763F658.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">It contains next frequency converters: (1) DCDC converter for the generation &amp; control of the DC distribution grid at 1100Vdc, from the 750Vdc of the batteries; (2) Inverter MSC1 (690Vac, 275kw) for the main propulsion electrical motor control; (3) Inverter MSC2 (400Vac, 50Hz, 50kW) for the generation of the low voltage AC distribution grid who supplies the vessel auxiliary services including the hotel loads. It contains several filters for the harmonic suppression at the AC side and the current ripple minimization at the batteries side, as well as some switches and DC fuses for implementing the DC grid bus tie.   </SPAN></SPAN></DIV></div>
+htmlText_11B5848D_01A0_22CB_4172_92054A60E5E0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">It contains next frequency converters: (1) AFE rectifier for the generation &amp; control of the DC distribution grid at 1100Vdc, from the 400V AC generated from the diesel generator; (2) Inverter MSC1 (690Vac, 275kw) for the main propulsion electrical motor control; (3) Inverter MSC2 (400Vac, 35kW) for the bow thruster electrical motor control. It also contains a LCL filter for the suppression of the high frequency AC harmonics going to the generator.   </SPAN></SPAN></DIV></div>
+htmlText_CF1D5BA5_DECF_80C1_41CB_C142AD141480.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#006699;font-size:24px;font-family:Tahoma, Geneva, sans-serif;">It contains an HMI system for the configuration, monitoring, supervision and maintenance of the vessel and its hybrid-electrical plant, together with the console for the fast governing of the propulsion system including the starting of the propulsion and bow thruster electrical motors and their speed control.  </SPAN></SPAN></DIV></div>
+htmlText_CF4E7486_DEC2_80C3_41CC_A54C02455AB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Electrical shore connection between the vessel and the shore electrical grid. A low voltage 3x 400V AC and 40A connection, auto-protected and supervised from the bridge control center. It permits the power supply for all the vessel auxiliary services including the hotel loads from the shore electrical grid as well as the slow recharging of the onboard battery systems. </SPAN></SPAN></DIV></div>
+
+### Título
+window_10372730_01E0_2FD9_412A_7B8E2B099700.title = PLC
+window_1104F0E3_01E1_E27F_4174_8FCFFA467B56.title = BRIDGE CONTROL CENTER
+window_1122C1D5_01E0_225B_4161_AAAF2FC48B63.title = BATTERIES
+window_1B86B73E_02E0_2FC9_4177_097A286CDAE5.title = MULTI DRIVE GS
+window_26DE7F64_37EF_CAAE_41AB_D6E2FAD9BDA7.title = ELECTRICAL SHORE CONNECTION
+window_3544092C_39E2_0352_4188_58893E7500E6.title = MAIN ELECTRICAL MOTOR
+window_36E8BFC6_39E2_1EDE_41C5_D1340B6875EB.title = DIESEL GENERATOR
+window_37C6DD00_39E6_0352_41B8_0FE26EC59A0E.title = MULTIDRIVE BATTERY
+
+## Hotspot
+
+### Tooltip
+FlatHotspotPanoramaOverlayArea_465DBC18_49C4_B0DD_41C8_B54DF4C55D7D.toolTip = MULTI DRIVE BATTERY
+FlatHotspotPanoramaOverlayArea_473D7207_49CF_70B3_415D_728CFA8213BC.toolTip =  DIESEL GENERATOR
+FlatHotspotPanoramaOverlayArea_4756D954_49C3_9355_41D0_8E93FB01C5AE.toolTip = BATTERIES
+FlatHotspotPanoramaOverlayArea_47F06061_49C4_B16F_4189_957C313131CA.toolTip = MULTI DRIVE GS
+HotspotPanoramaOverlayArea_28C689F4_3A2D_6A75_41BD_A0BEBE25E83D.toolTip = BRIDGE
+HotspotPanoramaOverlayArea_28E394AE_3A2B_3A95_41C2_FE66CF268659.toolTip = UPPER DECK
+HotspotPanoramaOverlayArea_28E8B4C0_3A2B_3A8D_41CC_82E095B63A42.toolTip = BRIDGE
+HotspotPanoramaOverlayArea_28EA64B9_3A2B_3AFF_41CC_1FB1E1B396DC.toolTip = CONVERTERS ZONE
+HotspotPanoramaOverlayArea_28EA74BD_3A2B_3AF7_41B9_FC5660277257.toolTip = ENGINE ROOM
+HotspotPanoramaOverlayArea_28EAB4BF_3A2B_3AF3_41B7_56BE631CF165.toolTip = CONVERTERS ZONE
+HotspotPanoramaOverlayArea_28EC64B7_3A2B_3AF3_41C1_7676DA67B27E.toolTip = STERN
+HotspotPanoramaOverlayArea_28ECA4BB_3A2B_3AF3_41B4_18E13D73FF81.toolTip = BATTERY ZONE
+HotspotPanoramaOverlayArea_28ECB4BC_3A2B_3AF5_41B0_F7C49574808A.toolTip = CONVERTERS ZONE
+HotspotPanoramaOverlayArea_28ED54B6_3A2B_3AF5_41BD_90415209E313.toolTip = BOW
+HotspotPanoramaOverlayArea_28EEA4B5_3A2B_3AF7_41C8_1D87EB8D0C73.toolTip = UPPER DECK
+HotspotPanoramaOverlayArea_28EFB4B3_3A2B_3AF3_41C4_F25A39FA391E.toolTip = UPPER DECK
+HotspotPanoramaOverlayArea_28F704C2_3A2B_3A8D_41C6_E30E8185806E.toolTip = ENGINE ROOM
+HotspotPanoramaOverlayArea_2A95A945_3A2D_6B97_41BD_B0BC37E1CC6D.toolTip = BOW
+HotspotPanoramaOverlayArea_2B729CB0_3A2F_2A8D_41C0_6ADE134500F5.toolTip = BOW
+HotspotPanoramaOverlayArea_2B8167E1_3A2F_268F_41C1_800C1FA68E9E.toolTip = STERN
+HotspotPanoramaOverlayArea_2BA06E0C_3A2D_6995_41C3_06392FC66C5B.toolTip = BRIDGE
+HotspotPanoramaOverlayArea_4641815F_49DD_9353_41B3_4E9E900F7AE8.toolTip = BRIDGE CONTROL CENTER
+HotspotPanoramaOverlayArea_46DFD756_49C4_FF55_41B3_75047BEA9767.toolTip = MAIN ELECTRICAL MOTOR
+HotspotPanoramaOverlayArea_58742486_49DF_71B5_41A7_CB3ADFA4152C.toolTip = PLC
+HotspotPanoramaOverlayArea_58FBF738_49DC_90DD_41CD_520B0E194EE5.toolTip = ELECTRICAL SHORE CONNECTION
+HotspotPanoramaOverlayArea_F82202F0_E938_BC0D_41D2_47212132C29C.toolTip = BLAS DE LEZO
+HotspotPanoramaOverlayArea_F8A5F380_E959_BC0D_4198_652F02B1BB08.toolTip = BLAS DE LEZO
+HotspotPanoramaOverlayArea_F9FB257C_E938_44F5_41CD_64ACBA24854E.toolTip = BLAS DE LEZO
+
+## Acción
+
+### URL
+LinkBehaviour_D09C3367_DEC2_8041_41E1_ABF2F8283726.source = https://pasaiaeskola.hezkuntza.net/es
+LinkBehaviour_D0DC0B8B_DEC6_80C1_41DC_4716D424468C.source = https://pasaiaeskola.hezkuntza.net/es
+LinkBehaviour_D19753A1_DEC2_80C1_41D2_A022272A5BB7.source = https://pasaiaeskola.hezkuntza.net/es

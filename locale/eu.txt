@@ -1,0 +1,125 @@
+#: locale=eu
+
+## Tour
+
+### Description
+
+### Título
+tour.name = ORTZE
+
+## Skin
+
+### Botón
+Button_462EDB57_4A0A_903E_41D1_5676E91C4283.label = CASTELLANO
+Button_462EDB57_4A0A_903E_41D1_5676E91C4283.pressedLabel = CASTELLANO
+Button_47C03027_4A19_B01E_41D1_53842FFBC421.label = EUSKARA
+Button_47C03027_4A19_B01E_41D1_53842FFBC421.pressedLabel = EUSKARA
+Button_47DD37D9_4A1A_9032_41B8_AE7F89A74E58.label = ENGLISH
+Button_47DD37D9_4A1A_9032_41B8_AE7F89A74E58.pressedLabel = ENGLISH
+Button_589E0941_4A1A_7012_41B5_7C2F39C0505A.label = ENGLISH
+Button_58B0AC36_4A1F_F07E_41D1_C4337C38545A.label = CASTELLANO
+Button_593C94A4_4A1B_9012_41D0_D6883328DBB5.label = EUSKARA
+
+### Tooltip
+IconButton_17419C86_0326_E262_4167_DF84F28E5D76.toolTip = GIROSKOPIOA
+IconButton_17419C86_0326_E262_4167_DF84F28E5D76_mobile.toolTip = GIROSKOPIOA
+IconButton_570E2E34_5EBE_63DE_417E_9FF89E99273C.toolTip = ESKUBI
+IconButton_570E2E34_5EBE_63DE_417E_9FF89E99273C_mobile.toolTip = ESKUBI
+IconButton_570E2E34_5EBE_63DE_41B6_6A9E5D4DE6FA.toolTip = BEHERA
+IconButton_570E2E34_5EBE_63DE_41B6_6A9E5D4DE6FA_mobile.toolTip = BEHERA
+IconButton_570E2E34_5EBE_63DE_41B8_BB2B515545D1.toolTip = MUGITU • GELDITU
+IconButton_570E2E34_5EBE_63DE_41B8_BB2B515545D1_mobile.toolTip = MUGITU • GELDITU
+IconButton_570E2E34_5EBE_63DE_41BF_4A1E5F2D40AB.toolTip = GUTXITU
+IconButton_570E2E34_5EBE_63DE_41BF_4A1E5F2D40AB_mobile.toolTip = GUTXITU
+IconButton_570E2E34_5EBE_63DE_41C7_41F80DEDE689.toolTip = GORA
+IconButton_570E2E34_5EBE_63DE_41C7_41F80DEDE689_mobile.toolTip = GORA
+IconButton_570E2E34_5EBE_63DE_41CF_DC0B2946505D.toolTip = HAUNDITU
+IconButton_570E2E34_5EBE_63DE_41CF_DC0B2946505D_mobile.toolTip = HAUNDITU
+IconButton_570E2E34_5EBE_63DE_41D0_8EA6B8C16A08.toolTip = EZKERRA
+IconButton_570E2E34_5EBE_63DE_41D0_8EA6B8C16A08_mobile.toolTip = EZKERRA
+IconButton_CCC024C6_DEC7_8043_41DD_8BF0338AAAAA.toolTip = VR BETAURREKOAK
+IconButton_CCC024C6_DEC7_8043_41DD_8BF0338AAAAA_mobile.toolTip = VR BETAURREKOAK
+IconButton_F15825E6_E2BB_2B6D_41D0_DEC9C7AEA7F9.toolTip = MINIATURA
+IconButton_F15825E6_E2BB_2B6D_41D0_DEC9C7AEA7F9_mobile.toolTip = MINIATURA
+IconButton_F67CF907_E2C8_F8AB_41DF_3CD4793E9FF2.toolTip = PANTAILA OSOA
+IconButton_F67CF907_E2C8_F8AB_41DF_3CD4793E9FF2_mobile.toolTip = PANTAILA OSOA
+IconButton_FC006037_DF46_9FC1_419F_06BD10C7020A.toolTip = CASTELLANO
+IconButton_FC006037_DF46_9FC1_419F_06BD10C7020A_mobile.toolTip = CASTELLANO
+IconButton_FC1A4D0D_DF47_81C1_41EA_F14DB859DDB9.toolTip = ENGLISH
+IconButton_FC1A4D0D_DF47_81C1_41EA_F14DB859DDB9_mobile.toolTip = ENGLISH
+IconButton_FDCDA655_DF45_8041_41E1_5B7B0CDEC51D.toolTip = EUSKARA
+IconButton_FDCDA655_DF45_8041_41E1_5B7B0CDEC51D_mobile.toolTip = EUSKARA
+IconButton_FE1EC289_F1C8_E5AE_41DC_F65C4DBEF4ED.toolTip = GIROSKOPIOA
+IconButton_FE1EC289_F1C8_E5AE_41DC_F65C4DBEF4ED_mobile.toolTip = GIROSKOPIOA
+
+## Media
+
+### Título
+panorama_4491DE75_49C5_9157_41C7_7AE9283EAFFC.label = MAKINA-GELA
+panorama_44C894A9_49C5_91FF_41B7_8C3BB287363D.label = BATERIA-GELA
+panorama_44CD8954_49C5_7355_41D2_03C26BB8EC07.label = BIHURGAILUAK
+panorama_44E29A56_49C3_9155_418C_53E8BC790008.label = TXOPA
+panorama_44E969FC_49C4_9355_41D0_950DCFAC9168.label = ZUBIA
+panorama_452C43E7_49C3_9773_41C3_F8C61C122C97.label = BRANKA
+panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E.label = GOIKO ONTZIGAINA
+
+## Ventana
+
+### Cuerpo
+htmlText_0E5BAA23_01A0_21FF_4172_E7F3A1767364.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Diesel talde osagarria 275kW-ko potentziarekin 50Hz-tan eta 315 kW-rekin 60Hz-tan. 400V AC-ko tentsioa sortzen du 1800 rpm-tan. 6 zilindrotako zuzeneko injekzioko errekuntzako motorra oso kontrolatuta dago sentsore, presostato, fluxu neurgailu eta termopare desberdinekin bere zirkuitu desberdinetan, prebentzio eta aurreikuspen mantentze aurreratua egiteko. Abiadura erregulatzaile digitala eta AVR tentsio erregulatzaile automatikoa ditu, abiadura aldakorreko funtzionamendua ahalbidetzen dutenak.</SPAN></SPAN></DIV></div>
+htmlText_0E97EE06_01A0_21B9_4170_C10237BA4406.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Litio-ioizko baterien taldea, 200 kWh-ko energia biltegiratzeko ahalmenarekin eta 400kW-ra arteko potentzia gaitasunarekin. Irteerako tentsio nominala 750Vdc da, eta hoztea behartutako aireztapenaren bidez egiten da. 1,5 ordu arteko kargatze azkarrak onartzen ditu, 180 kW-ra arteko potentziarekin. Aginte eta kontrol sistema zentralarekin komunikatzen den BMS-a (Bateria Kudeatzeko Sistema) dauka, bere egoera aldagaiak partekatuz PMS eta EMS estrategian parte hartzeko.</SPAN></SPAN></DIV></div>
+htmlText_0EBCAA41_01A0_21BB_4151_A8E5C941DF3E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Propultsio helize nagusia gidatzen duen motor elektrikoa. Urez hoztutako, harildu bikoitzeko, barneko iman iraunkorreko motor sinkroniko trifasikoa. Gehienezko potentzia 500kW-koa eta 690Vac-eko tentsio nominala izanik, -1000rpm-tik 1800rpm-ra funtziona dezake sensor-less moduan abiadura eta momentuaren dinamika altuko kontrol zehatzarekin.</SPAN></SPAN></DIV></div>
+htmlText_0F02191E_01A0_23C9_4146_61C866FD8FC8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Itsasontziaren funtzionamendu moduak kudeatzen ditu eta bateriak dituen planta elektriko-hibridoaren potentzia eta energia kudeaketa funtzioak burutzen ditu. Komunikazio bus-a bitarteko, maiztasun bihurgailuak, bateria sistema eta diesel sorgailua gobernatzen ditu, eta, era berean, instalazioa funtzionamendu modu desberdinen arabera konfiguratzeko etengailu automatikoak kontrolatzen ditu.. Alarma sistema zentrala ere gehitzen du.</SPAN></SPAN></DIV></div>
+htmlText_10F16450_01A1_E259_4159_441F5763F658.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Honako maiztasun bihurgailuak ditu: (1) DCDC (400 kW-ra arte) DC banaketa busa 1100 V-tara sortzeko eta kontrolatzeko, baterietako 750Vdc-tik; (2) MSC1 inbertsorea (690Vac, 275kW) propultsio nagusia gobernatzen duen motor elektrikoa kontrolatzeko; (3) SC inbertsorea (400Vac, 50Hz, 50kW) tentsio baxuko korronte alternoko (AC) banaketa sarea sortzeko, zerbitzu osagarrietarako eta hotel motako zerbitzuetarako. Tentsio baxuko korronte alternoko sareko harmonikoak kentzeko eta baterietan korrontearen ondulazioa minimizatzeko hainbat filtro ditu, baita DC sareko bus-tie etengailua osatzen duten etengailu eta fusible azkarren multzoa ere.</SPAN></SPAN></DIV></div>
+htmlText_11B5848D_01A0_22CB_4172_92054A60E5E0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Maiztasun bihurgailu hauek ditu: (1) AFE errektifikatzailea (400 kW-ra artekoa) Genset-ek sortutako 400 Vac-etik 1100 V-ko DC banaketa busa sortzeko eta kontrolatzeko; (2) MSC1 inbertsorea (690Vac, 275kW) propultsio nagusia akzionatzen duen motor elektrikoa kontrolatzeko, (3) MSC2 inbertsorea (400Vac, 35kW) brankako helizea gidatzen duen motor elektrikoa kontrolatzeko. Genset aldera lihoazken korronte alternoko goi frekuentziako armonikoak kentzeko LCL filtroa dauka.</SPAN></SPAN></DIV></div>
+htmlText_CF1D5BA5_DECF_80C1_41CB_C142AD141480.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#006699;font-size:24px;font-family:Tahoma, Geneva, sans-serif;">Itsasontzia eta bere planta elektriko-hibridoa konfiguratzeko, monitoritzaeko, gainbegiratzeko eta mantentzeko Giza Makina Interfaze  (HMI ingelesez) sistema dauka.  Bai eta propultsio plantaren kontrol eta aginte azkarrerako kontsola ere, propultsio nagusiko eta brankako helizeko motorren abioa eta abiadura kontrola barne dituela. </SPAN></SPAN></DIV></div>
+htmlText_CF4E7486_DEC2_80C3_41CC_A54C02455AB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:24px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#006699;font-size:24px;">Itsasontziaren eta portuko sare elektrikoaren arteko konexio puntu elektrikoa. Tentsio baxuko  3x 400V AC - 40A-ko konexio trifasikoa, auto-babestua eta kontrol eta aginte zentroak gainbegiratua. Portuko sare elektrikotik itsasontziaren zerbitzu osagarri eta hotel motako zerbitzu guztiak hornitzea ahalbidetzen du, bateria bitarteko biltegiratze sistemaren kargatze geldoa ere.</SPAN></SPAN></DIV></div>
+
+### Título
+window_10372730_01E0_2FD9_412A_7B8E2B099700.title = PLC
+window_1104F0E3_01E1_E27F_4174_8FCFFA467B56.title = AGINTE ETA KONTROL ZENTROA
+window_1122C1D5_01E0_225B_4161_AAAF2FC48B63.title = BATERIA SISTEMA
+window_1B86B73E_02E0_2FC9_4177_097A286CDAE5.title = MULTI DRIVE GS
+window_26DE7F64_37EF_CAAE_41AB_D6E2FAD9BDA7.title = PORTUKO SARE ELEKTRIKORA KONEXIOA
+window_3544092C_39E2_0352_4188_58893E7500E6.title = PROPULTSIO NAGUSIKO MOTOR ELEKTRIKOA 
+window_36E8BFC6_39E2_1EDE_41C5_D1340B6875EB.title =  DIESEL SORGAILUA
+window_37C6DD00_39E6_0352_41B8_0FE26EC59A0E.title = MULTIDRIVE BATTERY
+
+## Hotspot
+
+### Tooltip
+FlatHotspotPanoramaOverlayArea_465DBC18_49C4_B0DD_41C8_B54DF4C55D7D.toolTip = MULTI DRIVE BATTERY
+FlatHotspotPanoramaOverlayArea_473D7207_49CF_70B3_415D_728CFA8213BC.toolTip =  DIESEL SORGAILUA
+FlatHotspotPanoramaOverlayArea_4756D954_49C3_9355_41D0_8E93FB01C5AE.toolTip = BATERIA SISTEMA
+FlatHotspotPanoramaOverlayArea_47F06061_49C4_B16F_4189_957C313131CA.toolTip = MULTI DRIVE GS
+HotspotPanoramaOverlayArea_28C689F4_3A2D_6A75_41BD_A0BEBE25E83D.toolTip = ZUBIA
+HotspotPanoramaOverlayArea_28E394AE_3A2B_3A95_41C2_FE66CF268659.toolTip = GOIKO ONTZIGAINA
+HotspotPanoramaOverlayArea_28E8B4C0_3A2B_3A8D_41CC_82E095B63A42.toolTip = ZUBIA
+HotspotPanoramaOverlayArea_28EA64B9_3A2B_3AFF_41CC_1FB1E1B396DC.toolTip = BIHURGAILUAK
+HotspotPanoramaOverlayArea_28EA74BD_3A2B_3AF7_41B9_FC5660277257.toolTip = MAKINA-GELA
+HotspotPanoramaOverlayArea_28EAB4BF_3A2B_3AF3_41B7_56BE631CF165.toolTip = BIHURGAILUAK
+HotspotPanoramaOverlayArea_28EC64B7_3A2B_3AF3_41C1_7676DA67B27E.toolTip = TXOPA
+HotspotPanoramaOverlayArea_28ECA4BB_3A2B_3AF3_41B4_18E13D73FF81.toolTip = BATERIA SISTEMA
+HotspotPanoramaOverlayArea_28ECB4BC_3A2B_3AF5_41B0_F7C49574808A.toolTip = BIHURGAILUAK
+HotspotPanoramaOverlayArea_28ED54B6_3A2B_3AF5_41BD_90415209E313.toolTip = BRANKA
+HotspotPanoramaOverlayArea_28EEA4B5_3A2B_3AF7_41C8_1D87EB8D0C73.toolTip = GOIKO ONTZIGAINA
+HotspotPanoramaOverlayArea_28EFB4B3_3A2B_3AF3_41C4_F25A39FA391E.toolTip = GOIKO ONTZIGAINA
+HotspotPanoramaOverlayArea_28F704C2_3A2B_3A8D_41C6_E30E8185806E.toolTip = MAKINA-GELA
+HotspotPanoramaOverlayArea_2A95A945_3A2D_6B97_41BD_B0BC37E1CC6D.toolTip = BRANKA
+HotspotPanoramaOverlayArea_2B729CB0_3A2F_2A8D_41C0_6ADE134500F5.toolTip = BRANKA
+HotspotPanoramaOverlayArea_2B8167E1_3A2F_268F_41C1_800C1FA68E9E.toolTip = TXOPA
+HotspotPanoramaOverlayArea_2BA06E0C_3A2D_6995_41C3_06392FC66C5B.toolTip = ZUBIA
+HotspotPanoramaOverlayArea_4641815F_49DD_9353_41B3_4E9E900F7AE8.toolTip = AGINTE ETA KONTROL ZENTROA
+HotspotPanoramaOverlayArea_46DFD756_49C4_FF55_41B3_75047BEA9767.toolTip = PROPULTSIO NAGUSIKO MOTOR ELEKTRIKOA
+HotspotPanoramaOverlayArea_58742486_49DF_71B5_41A7_CB3ADFA4152C.toolTip = PLC
+HotspotPanoramaOverlayArea_58FBF738_49DC_90DD_41CD_520B0E194EE5.toolTip = PORTUKO SARE ELEKTRIKORA KONEXIOA
+HotspotPanoramaOverlayArea_F82202F0_E938_BC0D_41D2_47212132C29C.toolTip = BLAS DE LEZO
+HotspotPanoramaOverlayArea_F8A5F380_E959_BC0D_4198_652F02B1BB08.toolTip = BLAS DE LEZO
+HotspotPanoramaOverlayArea_F9FB257C_E938_44F5_41CD_64ACBA24854E.toolTip = BLAS DE LEZO
+
+## Acción
+
+### URL
+LinkBehaviour_D09C3367_DEC2_8041_41E1_ABF2F8283726.source = https://pasaiaeskola.hezkuntza.net/eu
+LinkBehaviour_D0DC0B8B_DEC6_80C1_41DC_4716D424468C.source = https://pasaiaeskola.hezkuntza.net/eu
+LinkBehaviour_D19753A1_DEC2_80C1_41D2_A022272A5BB7.source = https://pasaiaeskola.hezkuntza.net/eu
