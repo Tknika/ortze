@@ -4,21 +4,21 @@
     <title>ORTZE</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.66"/>
-    <link rel="preload" href="locale/es.txt?v=1616593060157" as="fetch" crossorigin="anonymous"/>
-	<link rel="preload" href="script.js?v=1616593060157" as="script"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/r/3/0_0.jpg?v=1616593060157" as="image"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/l/3/0_0.jpg?v=1616593060157" as="image"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/u/3/0_0.jpg?v=1616593060157" as="image"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/d/3/0_0.jpg?v=1616593060157" as="image"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/f/3/0_0.jpg?v=1616593060157" as="image"/>
-	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/b/3/0_0.jpg?v=1616593060157" as="image"/>
+    <link rel="preload" href="locale/es.txt?v=1619017025485" as="fetch" crossorigin="anonymous"/>
+	<link rel="preload" href="script.js?v=1619017025485" as="script"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/r/3/0_0.jpg?v=1619017025485" as="image"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/l/3/0_0.jpg?v=1619017025485" as="image"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/u/3/0_0.jpg?v=1619017025485" as="image"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/d/3/0_0.jpg?v=1619017025485" as="image"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/f/3/0_0.jpg?v=1619017025485" as="image"/>
+	<link rel="preload" href="media/panorama_6FC06A18_6469_8C77_41B6_E5ADA6CE1F8E_0/b/3/0_0.jpg?v=1619017025485" as="image"/>
 	<meta name="description" content="Virtual Tour"/>
-	<meta name="theme-color" content="#FFFFFF"/>
-    <script src="lib/tdvplayer.js?v=1616593060157"></script>
-    <script src="script.js?v=1616593060157"></script>
+	<meta name="theme-color" content="#000000"/>
+    <script src="lib/tdvplayer.js?v=1619017025485"></script>
+    <script src="script.js?v=1619017025485"></script>
     <script type="text/javascript">
         var tour;
-        var devicesUrl = {"general":"script_general.js?v=1616593060157","mobile":"script_mobile.js?v=1616593060157"};
+        var devicesUrl = {"mobile":"script_mobile.js?v=1619017025485","general":"script_general.js?v=1619017025485"};
 
         (function()
         {
@@ -55,9 +55,9 @@
 
             var settings = new TDV.PlayerSettings();
             settings.set(TDV.PlayerSettings.CONTAINER, document.getElementById('viewer'));
-            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1616593060157');
-            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1616593060157');
-            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1616593060157');
+            settings.set(TDV.PlayerSettings.WEBVR_POLYFILL_URL, 'lib/WebVRPolyfill.js?v=1619017025485');
+            settings.set(TDV.PlayerSettings.HLS_URL, 'lib/Hls.js?v=1619017025485');
+            settings.set(TDV.PlayerSettings.QUERY_STRING_PARAMETERS, 'v=1619017025485');
 
             tour = new TDV.Tour(settings, devicesUrl);
             tour.bind(TDV.Tour.EVENT_TOUR_INITIALIZED, onVirtualTourInit);
@@ -153,7 +153,7 @@
 
             function hide()
             {
-                
+                document.getElementById("video_CCC545B6_C701_5E8F_41C9_E37FBADACAD9").pause();
                 preloadContainer.style.visibility = 'hidden';
                 preloadContainer.style.display = 'none';
                 var videoList = preloadContainer.getElementsByTagName("video");
@@ -189,7 +189,7 @@
         function onBodyClick(){
             document.body.removeEventListener("click", onBodyClick);
             document.body.removeEventListener("touchend", onBodyClick);
-            
+            loadTour();
         }
 
         function onLoad() {
@@ -254,8 +254,10 @@
                 return;
             }
 
-            showPreloader();
-			loadTour();
+            playVideo(document.getElementById("video_CCC545B6_C701_5E8F_41C9_E37FBADACAD9"));
+			document.body.addEventListener("click", onBodyClick);
+			document.body.addEventListener("touchend", onBodyClick);
+			showPreloader();
         }
 
         function playVideo(video) {
@@ -326,12 +328,12 @@
         html, body { width: 100%; height: 100%; margin: 0; padding: 0; padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left); }
 
         #viewer { z-index:1; position:absolute; width: 100%; height: 100%; top: 0; }
-        #preloadContainer { z-index:2; position:relative; width:100%; height:100%; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
+        #preloadContainer { z-index:2; position:relative; width:100%; height:100%; opacity:0; background-color:rgba(0,0,0,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <link rel="stylesheet" href="fonts.css?v=1616593060157">
+    <link rel="stylesheet" href="fonts.css?v=1619017025485">
 </head>
 <body>
-    <div id="preloadContainer"><div style="z-index: 4; position: absolute; left: 0%; top: 50%; width: 100.00%; height: 10.00%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">Loading virtual tour. Please wait...</SPAN></DIV><DIV STYLE="text-align:center;font-size:1.6666666666666663vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#777777;font-size:1.67vmin;font-family:Arial, Helvetica, sans-serif;">created by Joserra Santamaría</SPAN></DIV><DIV STYLE="text-align:center;font-size:1.8285714285714283vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.83vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A HREF="https://www.3dvista.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#999999;font-size:1.48vmin;"><U>www.</U></SPAN></A></SPAN><SPAN STYLE="color:#999999;font-size:1.48vmin;"><U>joserrasantamaria.com</U></SPAN></SPAN></DIV></div></div></div>
+    <div id="preloadContainer"><div style="z-index: 4; position: absolute; display: flex; align-items: center; text-align: center; overflow: hidden; left: 0%; top: 12.17%; width: 100.00%; height: 73.85%"><video id="video_CCC545B6_C701_5E8F_41C9_E37FBADACAD9" width="100%" height="100%" onended="onBodyClick()" autoplay playsinline webkit-playsinline poster="media/video_CCC545B6_C701_5E8F_41C9_E37FBADACAD9_poster.jpg" preload="auto"><source src="media/video_CCC545B6_C701_5E8F_41C9_E37FBADACAD9.mp4" type="video/mp4">Your browser does not support the video tab</video></div><div style="z-index: 5; position: absolute; left: 0%; top: 95.22%; width: 100.00%; height: 3.59%"><div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:1.596806387225551vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.6vmin;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;">click to skip</SPAN></SPAN></DIV></div></div></div>
     <div id="viewer"></div>
 </body>
 </html>
